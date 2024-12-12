@@ -102,5 +102,8 @@ admin.site.register(Loan)
 ![apply  loan](image-5.png)
 6. Loan List 
 ![loan list](image-6.png)
+7. User List
+![image](https://github.com/user-attachments/assets/f039c75c-8d6f-4247-9ce1-498a82938e20)
+
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
